@@ -19,10 +19,6 @@
 
 ## 🚀 Getting Started
 
-Clone the repo or copy the files to your project folder.
-
-Create and populate the `.env` file.
-
 Run the services:
 
 ```bash
