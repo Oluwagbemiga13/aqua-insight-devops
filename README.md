@@ -1,4 +1,4 @@
-# aqua-insight-devops
+# 🌍 aqua-insight-devops
 
 ## 📦 Services
 
